@@ -1,9 +1,11 @@
-<h1 align="center">Hi there, I'm Saravanan!</h1>
+<h1 align="center">👋 Hey there, I'm Saravanan! 🚀</h1>
 
 # ✫ About Me:
 <i>
-🌟 I'm a UI/UX designer, developing design tools and skills.<br><br>
-🔧 Tools I know: Figma, Adobe Photoshop, Adobe Illustrator.<br>
+🌟 Passionate UI/UX designer on a journey to craft intuitive and aesthetic digital experiences.<br><br>
+🎨 I love designing user-friendly interfaces and improving user experiences.<br><br>
+🔍 Always exploring new trends in design and technology.<br><br>
+🔧 Tools I know: Figma, Adobe Photoshop, Adobe Illustrator.<br><br>
 </i>
 
 ## 🌐 Connect with me:
