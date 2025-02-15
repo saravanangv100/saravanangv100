@@ -3,12 +3,14 @@
 # ✫ About Me:
 <i>
 🌟 I'm a UI/UX designer, developing design tools and skills.<br><br>
-🔧 Tools I know: Figma, Adobe Photoshop, Illustrator.<br>
+🔧 Tools I know: Figma, Adobe Photoshop, Adobe Illustrator.<br>
 </i>
 
 ## 🌐 Connect with me:
-<a href="https://linkedin.com/in/linkedin.com/in/monish-v-79583a2aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/monish-v-79583a2aa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/monishmoni729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="monishmoni729" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saravanan-g5113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/monishmoni729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<a href="https://www.behance.net/21itr10saravan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saravanan_gv_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
